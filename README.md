@@ -22,3 +22,9 @@ return all possible unique permutations in any order. Test your solution using t
 
 **Constraints:**
     1 <= nums.length <= 8
+
+```
+run npm install before start codding
+run npm start to run a little test
+run npm test for test cases
+```
